@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163282446431",
+    "project_id": "watermark-ce091",
+    "storage_bucket": "watermark-ce091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163282446431:android:e89bcd20f8330b9b7453ea",
+        "android_client_info": {
+          "package_name": "com.example.mark2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffiDnXM0Qvi0o5wutPiqBx_ACwgL--AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
